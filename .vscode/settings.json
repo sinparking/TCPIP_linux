@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "inet.h": "c",
+        "in.h": "c",
+        "stdio.h": "c",
+        "socket_type.h": "c",
+        "stdlib.h": "c",
+        "sched.h": "c",
+        "socket.h": "c",
+        "unistd.h": "c",
+        "tcp_template": "c",
+        "netdb.h": "c",
+        "timesize.h": "c",
+        "types.h": "c",
+        "stdbool.h": "c"
+    }
+}
